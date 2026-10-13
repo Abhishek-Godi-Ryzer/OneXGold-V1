@@ -1,0 +1,6 @@
+{
+  "name": "OneX Gold — Digital 24K Gold",
+  "description": "OneX Gold purchase lifecycle with simulated PAXG liquidity and gold allocation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
